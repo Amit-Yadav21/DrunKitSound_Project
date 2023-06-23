@@ -2,7 +2,7 @@ body {
     text-align: center;
     overflow-y: hidden;
     /* background-color:cadetblue; */
-    background-image: url(/images/borderImage.jpg);
+    background-image: url('./images/borderImage.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
