@@ -30,7 +30,7 @@ h1 {
     transform: translate(-50%, -50%);
     color: transparent;
     -webkit-background-clip: text;
-    background-image: linear-gradient(blue,black);
+    background-image: linear-gradient(blue,yellow);
     background-repeat: no-repeat;
     background-position: -750px 0;
     animation: backcolor 5s linear infinite alternate;
